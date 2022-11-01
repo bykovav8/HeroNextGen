@@ -3,4 +3,4 @@ Extension of the Hero Creation/Deletion game (https://github.com/bykovav8/Hero-C
 
 Here's my Github repo link: (https://github.com/bykovav8/HeroNextGen)
 
-Here's my Github Pages link: (https://github.com/bykovav8/HeroNextGen/tree/master/build_hero_next_gen)
+Here's my Github Pages link: (https://bykovav8.github.io/HeroNextGen/build_hero_next_gen)
